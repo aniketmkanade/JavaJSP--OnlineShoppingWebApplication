@@ -1,2 +1,2 @@
 # OnlineShoppingWebApplication-Java-
-Simple Shopping Cart project in Java, JSP, HTML, CSS, Bootstrap
+Simple Shopping Cart project(Java, JSP, HTML, CSS, Bootstrap)
